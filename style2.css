@@ -1,0 +1,15 @@
+body {
+    font-family: "Century Gothic", sans-serif;
+ }
+ 
+ header {
+    font-style: italic;
+ }
+ 
+ section {
+    text-decoration: underline;
+ }
+ 
+ ul {
+    color: green;
+ }
